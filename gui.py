@@ -16,7 +16,7 @@ st.sidebar.markdown(intro)
 import streamlit as st
 from PIL import Image
 
-image = Image.open('C:/Users/chara/OneDrive/Desktop/PROGRAMS/Breast_cancer_prediction/notebooks/data/doctor-clinic-illustration_1270-69.png')
+image = Image.open('doctor-clinic-illustration_1270-69.png')
 image=image.resize((200,200))
 
 st.image(image, caption='Doctor')
