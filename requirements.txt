@@ -4,4 +4,4 @@ matplotlib
 seaborn
 scikit-learn
 streamlit
-pickle
+pickle5
