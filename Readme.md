@@ -25,7 +25,7 @@ Data Set Lnk-"https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
 
 **Further Improvements**
 
-Improving GUI using streamlit and html
-The output is to be shown properly instead of "M" and "B" only on top
-More interactive operations can be added
-Graphs and plots could also be added to make it more visualising using streamlit
+1)Improving GUI using streamlit and html
+2)The output is to be shown properly instead of "M" and "B" only on top
+3)More interactive operations can be added
+4)Graphs and plots could also be added to make it more visualising using streamlit
